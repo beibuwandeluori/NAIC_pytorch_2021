@@ -1,4 +1,4 @@
-# PyTorch 模版说明
+# NAIC AI+无线通讯 PyTorch 版本 baseline，本地验证的score有50分
 
 ## 参数说明
 - feedback_bits=512（反馈比特量）
