@@ -16,7 +16,7 @@
 #### Model_define_pytorch.py
 设计网络结构，设计Encoder与Decoder函数。
 - Encoder函数，定义编码器模型。输入原始信道状态信息（x）与反馈比特量(feedback_bits)，输出为比特流编码向量
-##### 主要改变：修改Encoder,把卷积层换成EfficientNet
+##### 主要改变： 修改Encoder,把卷积层换成EfficientNet
 - Decoder函数，定义解码器模型。输入比特流编码向量（x）与反馈比特量(feedback_bits)，输出为重建的CSI
 - 参赛者搭建模型时class Autoencoder不可修改
 
